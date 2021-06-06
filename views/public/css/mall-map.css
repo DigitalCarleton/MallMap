@@ -400,6 +400,13 @@ a#locate-button {
     margin-bottom: 1.5em;
 }
 
+.number-icon {
+    background-image: url("marker-icon.png");
+    text-align:center;
+    color:White;    
+    font-size: 20px;
+}
+
 @media screen and (max-width: 640px) {
 
     #first-time .tooltip {
